@@ -1,0 +1,1 @@
+"# OCR-MODEL-FROM-GPU-TO-CPU" 
